@@ -1,4 +1,4 @@
-This is a Vue.JS Project.
+This is a simple Vue.JS Protfolio Project.
 
 <b>Getting Started: </b> <br>
 <strong>npm install</strong> <br>
